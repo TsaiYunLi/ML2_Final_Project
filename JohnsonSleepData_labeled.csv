@@ -1,0 +1,47 @@
+Date,Day,Bedtime,Waketime,Sleep Length,Bedtime Temp,Perceived Temp,Dream,Wake Freq,Waked by Wife,Wife Nocturia,Sleep Quality Level,Slept Well,Meta Data
+5/6/22,Fri,11:00 PM,7:00 AM,8:00,26.3 ,Fine,Forgot,1 ,Yes,No,5 ,1,
+5/7/22,Sat,1:00 AM,8:30 AM,7:30,26.3 ,Fine,Forgot,1 ,Unsure,Yes,7 ,1,
+5/8/22,Sun,11:20 PM,7:30 AM,8:10,26.5 ,Hot,Forgot,0 ,No,Yes,4 ,-1,Drank too much water at night; Stomach a bit uncomfortable
+5/9/22,Mon,1:00 AM,7:20 AM,6:20,26.5 ,Fine,Forgot,0 ,No,Yes,3 ,-1,
+5/10/22,Tue,11:00 PM,8:20 AM,9:20,26.7 ,Cold,Forgot,1 ,Unsure,Yes,5 ,1,
+5/11/22,Wed,11:00 PM,7:30 AM,8:30,27.3 ,Fine,Forgot,6 ,No,Yes,4 ,-1,Held back urine untill awake in the morning
+5/12/22,Thurs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+5/13/22,Fri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+5/14/22,Sat,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+5/15/22,Sun,10:40 PM,8:35 AM,9:55,26.3 ,Fine,Forgot,0 ,No,Yes,8 ,1,Held back urine untill awake in the morning
+5/16/22,Mon,11:10 PM,8:00 AM,8:50,25.8 ,Cold,Forgot,0 ,No,Yes,5 ,1,Wife experienced gastroesophageal reflux
+5/17/22,Tue,10:30 PM,8:20 AM,9:50,25.0 ,Fine,Forgot,0 ,No,Yes,9 ,1,Wife stomach uncomfortable and experienced nocturia3 times
+5/18/22,Wed,11:30 PM,8:00 AM,8:30,26.3 ,Cold,Forgot,0 ,No,Yes,4 ,-1,
+5/19/22,Thurs,12:00 AM,6:30 AM,6:30,26.1 ,Hot,Forgot,0 ,No,No,5 ,1,
+5/20/22,Fri,12:00 AM,8:30 AM,8:30,26.1 ,Fine,Forgot,0 ,No,No,5 ,1,
+5/21/22,Sat,12:00 AM,9:00 AM,9:00,26.1 ,Fine,Forgot,0 ,No,No,5 ,1,
+5/22/22,Sun,10:30 PM,7:30 AM,9:00,25.7 ,Fine,Forgot,1 ,Yes,Yes,1 ,-1,Wife experienced uncomfortable MC
+5/23/22,Mon,11:30 PM,7:30 AM,8:00,26.4 ,Fine,Remember,0 ,Unsure,Yes,3 ,-1,
+5/24/22,Tue,10:10 PM,6:00 AM,7:50,26.5 ,Fine,Forgot,0 ,Yes,Yes,3 ,-1,
+5/25/22,Wed,11:00 PM,8:00 AM,9:00,26.3 ,Fine,Forgot,0 ,No,Yes,3 ,-1,
+5/26/22,Thurs,12:10 AM,8:40 AM,8:30,26.4 ,Fine,Forgot,0 ,No,Yes,5 ,1,
+5/27/22,Fri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+5/28/22,Sat,12:30 AM,7:00 AM,6:30,26.5 ,Fine,Forgot,0 ,No,Yes,5 ,1,
+5/29/22,Sun,11:30 PM,8:40 AM,9:10,26.8 ,Fine,Forgot,0 ,No,Yes,6 ,1,
+5/30/22,Mon,11:30 PM,8:00 AM,8:30,27.0 ,Fine,Forgot,0 ,No,Yes,5 ,1,
+5/31/22,Tue,11:40 PM,7:30 AM,7:50,28.0 ,Fine,Forgot,0 ,No,Yes,5 ,1,Found out to be chronically allergic to soya and stopped consuming soya products
+6/1/22,Wed,10:40 PM,8:30 AM,9:50,28.7 ,Cold,Forgot,0 ,No,Yes,1 ,-1,Took a too-hot shower
+6/2/22,Thurs,12:30 AM,8:00 AM,7:30,28.0 ,Fine,Forgot,0 ,No,Yes,8 ,1,
+6/3/22,Fri,10:00 PM,7:00 AM,9:00,29.0 ,Fine,Forgot,1 ,Yes,Yes,5 ,1,Bedroom's doorknob cranked when wife experienced nocturia
+6/4/22,Sat,12:40 AM,8:00 AM,7:20,29.4 ,Cold,Remember,1 ,Yes,Yes,1 ,-1,"Dreamt about war, vivd and frightening"
+6/5/22,Sun,12:30 AM,7:30 AM,7:00,29.8 ,Fine,Forgot,0 ,No,Yes,3 ,-1,
+6/6/22,Mon,11:50 PM,7:30 AM,7:40,29.4 ,Fine,Forgot,0 ,No,Yes,5 ,1,
+6/7/22,Tue,11:30 PM,8:10 AM,8:40,29.8 ,Fine,Forgot,1 ,Yes,Yes,5 ,1,Rolled over and squeezed wife off bed; Woke by the light from outside the bedroom door when wife got out for a mattress
+6/8/22,Wed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+6/9/22,Thurs,12:40 AM,8:00 AM,7:20,29.0 ,Fine,Forgot,0 ,No,Yes,7 ,1,
+6/10/22,Fri,10:50 PM,8:20 AM,9:30,28.0 ,Fine,Forgot,0 ,No,Yes,3 ,-1,
+6/11/22,Sat,12:40 AM,9:00 AM,8:20,28.0 ,Cold,Forgot,3 ,No,Yes,3 ,-1,Woke up because feeling cold
+6/12/22,Sun,12:30 AM,9:00 AM,8:30,28.0 ,Fine,Forgot,0 ,No,Yes,1 ,-1,Held back urine untill awake in the morning
+6/13/22,Mon,11:30 PM,7:30 AM,8:00,28.0 ,Fine,Forgot,0 ,No,Yes,1 ,-1,
+6/14/22,Tue,10:30 PM,8:00 AM,9:30,29.0 ,Cold,Remember,1 ,No,Yes,3 ,-1,Dreamt a frightening dream and felt cold
+6/15/22,Wed,12:00 AM,8:30 AM,8:30,29.0 ,Fine,Forgot,0 ,No,Yes,5 ,-1,
+6/16/22,Thurs,12:00 AM,8:00 AM,8:00,29.0 ,Fine,Forgot,1 ,Yes,Yes,7 ,1,Slept on wife's quilt and got woke up when wife took back her quilt
+6/17/22,Fri,11:30 PM,7:30 AM,8:00,29.0 ,Fine,Forgot,0 ,No,Yes,0 ,-1,
+6/18/22,Sat,11:30 PM,8:00 AM,8:30,29.7 ,Fine,Forgot,0 ,No,Yes,1 ,-1,
+6/19/22,Sun,2:20 AM,7:30 AM,5:10,29.8 ,Cold,Forgot,0 ,No,Yes,5 ,1,Went jogging at night with wife
+6/20/22,Mon,11:30 PM,9:10 AM,9:40,30.1 ,Cold,Forgot,0 ,No,Yes,2 ,-1,
