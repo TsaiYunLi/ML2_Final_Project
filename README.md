@@ -10,6 +10,6 @@ Unfortunately, since the dataset is small and imbalanced (when treated as a mult
 
 If I were to conduct this multi-class classification project again, I will ask the subject to record at least 3 months of his sleep instances in order to get a larger, more balanced dataset. I believe this will fix the issue of model overfitting, and will result in models with good performances. 
 
-Nevertheless, your suggestions for techniques to mitigate the impact of such an imbalanced, small dataset are very welcomed!
+Nevertheless, your suggestions for techniques to mitigate the impact of such an imbalanced, small dataset are very welcomed! Even though my project is flawed, still, please do not use my code or text without proper citation.
 
-Please do not use my code or text without proper citation, thank you!
+Thank you so much folks! I got a very good feedback on this project. I have to admit that I made a very silly, classic machine learning mistake - I got training accuracy scores using the same training dataset that I trained my models with; that is, I did not have a different validation dataset. Naturally the training accuracy scores are close to 1; while, the test accuracy scores are much lower, indicating a sever overfitting issue. If I were to redo this project with the original small dataset, I would use the Leave-One-Out Cross-Validation (LOOCV) technique to divide my data and evaluate my models, as suggested by a peer. If I collected a much larger dataset, I would use the standard Cross-Validation techniqe instead of simply splitting my data into a training, validation, and test set, because cross-validation "removes the 'chance' factor of getting a good/bad test split which scores high/low," quoting the original feedback.
